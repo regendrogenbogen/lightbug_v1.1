@@ -1,8 +1,8 @@
 Positions/quantity;Item;Description;order number
 ;;;
 ;Farnell;;
-D1;STPS3L40S˜;Schottky diode;2353680
-LED1, LED2;LED 3mm;green;1142502
+D1;STPS3L40S;Schottky diode;2353680
+LED1 LED2;LED 3mm;green;1142502
 3;LR6/AA Alkaline;Batteries, 120 pcs. ;2470180
 R1, R2;1k;Resistor, wired;9341102
 R4, R5;330R;Resistor, wired;9341730
