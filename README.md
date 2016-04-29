@@ -12,5 +12,7 @@ The software is of course completely open, according to the GPL license.
 
 Have fun with the files!
 
+The PCB can be ordered at OSH-Park: https://oshpark.com/shared_projects/ZxSDuxPU
+
 PS: If I did licence anything wrong and I am violating other licenses, please tell me,
 I am still learning!
