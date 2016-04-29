@@ -1,4 +1,4 @@
-# lightbug_v1.1
+# lightbug v1.1
 
 Source files for a small light following robot based on the Arduino Leonardo design. 
 Hardware design was done in Altium Designer and I am not sure how and under which license I am
