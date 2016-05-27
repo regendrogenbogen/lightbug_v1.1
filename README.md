@@ -14,5 +14,7 @@ Have fun with the files!
 
 The PCB can be ordered at OSH-Park: https://oshpark.com/shared_projects/ZxSDuxPU
 
+I have a blog post to this robot: https://regendrogenbogen.wordpress.com/2016/04/29/lightbug-v1-1/
+
 PS: If I did licence anything wrong and I am violating other licenses, please tell me,
 I am still learning!
